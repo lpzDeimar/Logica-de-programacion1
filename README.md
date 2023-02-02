@@ -1,5 +1,8 @@
-# Logica-de-programacion1
-## Angelica
+### Logica-de-programacion1
 ---
-## Generation Colombia
+## Angelica Ruiz
+---
+## Generation Colombia Java Full-Stack
+
+
 
